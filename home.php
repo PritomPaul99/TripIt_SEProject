@@ -29,7 +29,6 @@
 
    </section>
 
-   <!-- home starts here -->
    <section class="home">
 
       <div class="swiper home-slider">
@@ -68,10 +67,6 @@
       </div>
 
    </section>
-
-   <!-- home ends here-->
-   <!-- -------------------- -->
-   <!-- services starts here -->
 
    <section class="services">
 
@@ -112,10 +107,6 @@
 
    </section>
 
-   <!-- service ends here -->
-
-   <!-- home about section starts  -->
-
    <section class="home-about">
 
       <div class="image">
@@ -130,9 +121,6 @@
 
    </section>
 
-   <!-- home about section ends -->
-
-   <!-- home packages section starts  -->
 
    <section class="home-packages">
 
