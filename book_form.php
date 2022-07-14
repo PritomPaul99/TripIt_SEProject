@@ -1,6 +1,6 @@
 <?php
 
-   $connection = mysqli_connect('localhost','root','','book_db');
+   $connection = mysqli_connect('localhost','root','','TripItBookForm');
 
    if(isset($_POST['send'])){
       $name = $_POST['name'];
