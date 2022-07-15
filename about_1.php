@@ -19,12 +19,13 @@
 <body>
    <section class="header">
 
-   <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="90" alt="TripIt"></a>
+      <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="90" alt="TripIt"></a>
 
       <nav class="navbar">
          <a href="home_1.php">home</a>
-         <a href="about.php">about</a>
-         <a href="package.php">package</a>
+         <a href="about_1.php">about</a>
+         <a href="package_1.php">package</a>
+         <a href="hotels_1.php"> hotels</a>
          <a href="book.php">book</a>
          <a href="logout.php">Logout</a>
       </nav>
@@ -155,6 +156,7 @@
             <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
             <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
             <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+            <a href="hotels.php"><i class="fas fa-angle-right"></i> hotels</a>
             <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
          </div>
 

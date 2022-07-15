@@ -23,6 +23,7 @@
          <a href="home_1.php">home</a>
          <a href="about_1.php">about</a>
          <a href="package_1.php">package</a>
+         <a href="hotels_1.php"> hotels</a>
          <a href="book.php">book</a>
          <a href="logout.php">Logout</a>
       </nav>

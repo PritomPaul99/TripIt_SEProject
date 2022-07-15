@@ -31,34 +31,53 @@
 
 </section>
 
-<div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
-   <h1>packages</h1>
+<div class="heading" style="background:url(images/hotel_1.jfif) no-repeat">
+   <h1>hotels</h1>
 </div>
 
 <section class="packages">
 
-   <h1 class="heading-title">top destinations</h1>
+   <h1 class="heading-title">Most Popular Hotels</h1>
 
    <div class="box-container">
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/hotel_ng.png" alt="Hotel Noorjahan Grand">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Noorjahan Grand</h3>
+            <p>Waves 1, Ritz Tower Dargah Gate, Sylhet, 3100, Bangladesh</p>
+            <p>Price: 2550 BDT</p>
+            <a href="https://goo.gl/maps/rw5Z8StGkTBquPYX8" class="btn">Visit on map</a>
             <a href="errormsg.php" class="btn">book now</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/hotels_ngr.png" alt="Nazimgarh Garden Resort">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Nazimgarh Garden Resort</h3>
+            <p>Kollogram 3100</p>
+            <p>Price: 3750 BDT</p>
+            <!-- <a href="book.php" class="btn">book now</a> -->
+            <a href="https://g.page/nazimgarhresorts?share" class="btn">Visit on map</a>
+            <a href="errormsg.php" class="btn">book now</a>
+
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/hotels_hrv.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Rose View Hotel</h3>
+            <p>Rose View Complex, Bishwa Rd, Sylhet 3100</p>
+            <p>Price: 6571 BDT</p>
+            <a href="https://g.page/RoseViewHotel?share" class="btn">Visit on map</a>
             <!-- <a href="book.php" class="btn">book now</a> -->
             <a href="errormsg.php" class="btn">book now</a>
 
@@ -67,12 +86,14 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/hotels_hd.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Dallas</h3>
+            <p>Jail Rd, Sylhet 3100</p>
+            <p>Price: 2601 BDT</p>
             <!-- <a href="book.php" class="btn">book now</a> -->
+            <a href="https://goo.gl/maps/gdiC6N5ZRnyNugj46" class="btn">Visit on map</a>
             <a href="errormsg.php" class="btn">book now</a>
 
          </div>
@@ -80,12 +101,14 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-4.jpg" alt="">
+            <img src="images/hotels_ni.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Nirvana Inn</h3>
+            <p>Mirza Jangal Rd, Sylhet 3100</p>
+            <p>Price: 4224 BDT</p>
             <!-- <a href="book.php" class="btn">book now</a> -->
+            <a href="https://goo.gl/maps/7tgUZ4So9o6EY9y3A" class="btn">Visit on map</a>
             <a href="errormsg.php" class="btn">book now</a>
 
          </div>
@@ -93,12 +116,14 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-5.jpg" alt="">
+            <img src="images/hotels_ESH.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Excelsior Sylhet Hotel & Resort</h3>
+            <p>3100 Dhaka - Sylhet Hwy, Zakariyacity 3100</p>
+            <p>Price: 4694 BDT</p>
             <!-- <a href="book.php" class="btn">book now</a> -->
+            <a href="https://goo.gl/maps/nMoYXQXjyFmTtaGe6" class="btn">Visit on map</a>
             <a href="errormsg.php" class="btn">book now</a>
 
          </div>
@@ -106,12 +131,14 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-6.jpg" alt="">
+            <img src="images/hotels_gsh.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Grand Sylhet Hotel & Resort</h3>
+            <p>Boroshala, Khadimnogor, Union Parishad, Airport Road, Shodor Sylhet</p>
+            <p>Price: 7222 BDT</p>
             <!-- <a href="book.php" class="btn">book now</a> -->
+            <a href="https://goo.gl/maps/wVcWLF7unyz5DWJT8" class="btn">Visit on map</a>
             <a href="errormsg.php" class="btn">book now</a>
 
          </div>
@@ -119,12 +146,14 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-7.jpg" alt="">
+            <img src="images/hotels_lvh.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3> La Vista Hotel</h3>
+            <p>VIP Road, Lamabazar, (opposite Lamabazar Police Fari), Sylhet 3100</p>
+            <p>Price: 3420 BTD</p>
             <!-- <a href="book.php" class="btn">book now</a> -->
+            <a href="https://g.page/LaVistaHotelBD?share" class="btn">Visit on map</a>
             <a href="errormsg.php" class="btn">book now</a>
 
          </div>
@@ -132,64 +161,14 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-8.jpg" alt="">
+            <img src="images/Hotels_hmi.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Metro International</h3>
+            <p>East Bandar Bazar Dupadighir par (South, 3100</p>
+            <p>Price: 3233 BTD</p>
             <!-- <a href="book.php" class="btn">book now</a> -->
-            <a href="errormsg.php" class="btn">book now</a>
-
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-9.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <!-- <a href="book.php" class="btn">book now</a> -->
-            <a href="errormsg.php" class="btn">book now</a>
-
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-10.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <!-- <a href="book.php" class="btn">book now</a> -->
-            <a href="errormsg.php" class="btn">book now</a>
-
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-11.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <!-- <a href="book.php" class="btn">book now</a> -->
-            <a href="errormsg.php" class="btn">book now</a>
-
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-12.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <!-- <a href="book.php" class="btn">book now</a> -->
+            <a href="https://goo.gl/maps/4mFWQierWXChPqU88" class="btn">Visit on map</a>
             <a href="errormsg.php" class="btn">book now</a>
 
          </div>

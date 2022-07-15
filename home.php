@@ -22,6 +22,7 @@
          <a href="home.php">Home</a>
          <a href="about.php">About</a>
          <a href="package.php">Package</a>
+         <a href="hotels.php"> hotels</a>
          <a href="index.php">Log in</a>
       </nav>
 
@@ -106,6 +107,79 @@
       </div>
 
    </section>
+
+
+   <!-- maps start -->
+   <section class="reviews">
+
+      <h1 class="heading-title"> Top Destinations </h1>
+
+      <div class="swiper reviews-slider">
+
+         <div class="swiper-wrapper">
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.0238896548626!2d91.7499734148447!3d25.168671183909467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750f12442357305%3A0x733fa65750530a4f!2sSada%20Pathor%20Volagonj!5e0!3m2!1sen!2sbd!4v1657866870300!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Sada Pathor</h3>
+               <span>Adventure</span>
+               <!-- <img src="images/pic-1.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28889.977405816036!2d91.99015607308571!3d25.161130470412818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375044bd7d747f47%3A0xef2b6cb5bcade375!2sJaflong!5e0!3m2!1sen!2sbd!4v1657867058280!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Jaflong</h3>
+               <span>Adventure & Nature</span>
+               <!-- <img src="images/pic-2.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8963.733504007696!2d91.7936253046067!3d24.341128532272464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375179d765c0cacf%3A0x7b17e70cae88f95d!2sLawachara%20National%20Park!5e0!3m2!1sen!2sbd!4v1657867264171!5m2!1sen!2sbd" width="350" height="352" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Lawachara National Park</h3>
+               <span>Adventure and Nature</span>
+               <!-- <img src="images/pic-3.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.618795879541!2d91.89004120351603!3d24.967011079781376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375055f3d49883e7%3A0xb7202af823b1d73!2sTreeTop%20Adventure%20Farm!5e0!3m2!1sen!2sbd!4v1657867490442!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>TreeTop Adventure Farm</h3>
+               <span>Adventure</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.429859761405!2d91.90418031483941!3d24.91742208402703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750549f7b9a00bf%3A0xcee115f7fab88dc2!2sTilagar%20Eco%20Park!5e0!3m2!1sen!2sbd!4v1657868267137!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Tilagar Eco Park</h3>
+               <span>Zoo</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.429859761405!2d91.90418031483941!3d24.91742208402703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750549f7b9a00bf%3A0xcee115f7fab88dc2!2sTilagar%20Eco%20Park!5e0!3m2!1sen!2sbd!4v1657868267137!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Adventure World Fun & Family Tourism Park</h3>
+               <span>Amusement Park</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.5857751523454!2d91.91651441484147!3d25.014187483981647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375051377216199b%3A0x1e9a24c0202a6d39!2sRatargul%20Swamp%20Forest!5e0!3m2!1sen!2sbd!4v1657868720320!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Ratargul Swamp Forest</h3>
+               <span>Nature</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.809001934436!2d92.07266127628132!3d25.175926278341674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750552555555555%3A0x63110c3e6e0471be!2sSripur%20Picnic%20Corner!5e0!3m2!1sen!2sbd!4v1657869018515!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Sripur Picnic Corner</h3>
+               <span>Picnic & Nature</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+         </div>
+
+      </div>
+
+   </section>
+   <!-- maps end -->
 
    <section class="home-about">
 
@@ -192,7 +266,10 @@
             <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
             <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
             <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-            <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+            <a href="hotels.php"> <i class="fas fa-angle-right"></i> hotels</a>
+            <!-- <a href="book.php"> <i class="fas fa-angle-right"></i> book</a> -->
+            <a href="index.php"> <i class="fas fa-angle-right"></i> Login or Register</a>
+
          </div>
 
          <div class="box">

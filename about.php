@@ -25,6 +25,7 @@
          <a href="home.php">home</a>
          <a href="about.php">about</a>
          <a href="package.php">package</a>
+         <a href="hotels.php"> hotels</a>
          <a href="index.php">Log in</a>
       </nav>
 
@@ -154,7 +155,9 @@
             <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
             <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
             <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-            <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+            <!-- <a href="book.php"> <i class="fas fa-angle-right"></i> book</a> -->
+            <a href="index.php"> <i class="fas fa-angle-right"></i> Login or Register</a>
+
          </div>
 
          <div class="box">
