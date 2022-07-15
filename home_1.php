@@ -23,7 +23,8 @@ if (!isset($_SESSION['username'])) {
 </head>
 
 <body>
-   <?php echo "<h1>Welcome " . $_SESSION['username'] . "!</h1>"; ?>
+   <?php echo "<h1 style='color: blueviolet; text-align-last: center;'> Welcome " . $_SESSION['username'] . "!</h1>"; ?>
+   <!-- <h1 style="color: blueviolet; text-align-last: center;"></h1> -->
    <!-- added  -->
    <section class="header">
 
