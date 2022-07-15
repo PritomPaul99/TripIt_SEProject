@@ -20,10 +20,11 @@
 <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="70" alt="TripIt"></a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
+      <a href="home_1.php">home</a>
+      <a href="about_1.php">about</a>
+      <a href="package_1.php">package</a>
       <a href="book.php">book</a>
+      <a href="logout.php">Logout</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>

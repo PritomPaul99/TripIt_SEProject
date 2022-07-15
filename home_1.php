@@ -1,3 +1,12 @@
+<?php 
+
+session_start();
+
+if (!isset($_SESSION['username'])) {
+    header("Location: index.php");
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,15 +23,18 @@
 </head>
 
 <body>
+<?php echo "<h1>Welcome " . $_SESSION['username'] . "!</h1>"; ?> 
+<!-- added  -->
    <section class="header">
 
       <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="90" alt="TripIt"></a>
 
       <nav class="navbar">
-         <a href="home.php">Home</a>
-         <a href="about.php">About</a>
+         <a href="home_1.php">Home</a>
+         <a href="about_1.php">About</a>
          <a href="package.php">Package</a>
-         <a href="index.php">Log in</a>
+         <a href="book.php">Book</a>
+         <a href="logout.php">Logout</a>
       </nav>
 
       <div id="menu-btn" class="fas fa-bars"></div>
@@ -31,7 +43,7 @@
 
    <section class="home">
 
-      <div class="swiper home-slider">
+      <div class="swiper home-slider" style="color: transparent;">
 
          <div class="swiper-wrapper">
 
@@ -39,7 +51,7 @@
                <div class="content">
                   <span>Explore, Discover & Travel!</span>
                   <h3>Travel around the world, feel your life!</h3>
-                  <a href="package.php" class="btn">Discover more</a>
+                  <a href="package_1.php" class="btn">Discover more</a>
                </div>
             </div>
 
@@ -47,7 +59,7 @@
                <div class="content">
                   <span>Explore, Discover & Travel!</span>
                   <h3>Discover the new places</h3>
-                  <a href="package.php" class="btn">discover more</a>
+                  <a href="package_1.php" class="btn">discover more</a>
                </div>
             </div>
 
@@ -55,7 +67,7 @@
                <div class="content">
                   <span>Explore, discover & travel!</span>
                   <h3>Make your tour worthwhile</h3>
-                  <a href="package.php" class="btn">discover more</a>
+                  <a href="package_1.php" class="btn">discover more</a>
                </div>
             </div>
 

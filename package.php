@@ -21,7 +21,9 @@
       <a href="home.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
-      <a href="book.php">book</a>
+      <!-- <a href="book.php">book</a> -->
+      <a href="index.php">Log in</a>
+
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>

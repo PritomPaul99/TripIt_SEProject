@@ -22,10 +22,11 @@
    <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="90" alt="TripIt"></a>
 
       <nav class="navbar">
-         <a href="home.php">home</a>
+         <a href="home_1.php">home</a>
          <a href="about.php">about</a>
          <a href="package.php">package</a>
-         <a href="index.php">Log in</a>
+         <a href="book.php">book</a>
+         <a href="logout.php">Logout</a>
       </nav>
 
       <div id="menu-btn" class="fas fa-bars"></div>
