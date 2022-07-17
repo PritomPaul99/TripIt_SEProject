@@ -181,6 +181,23 @@
    </section>
    <!-- maps end -->
 
+
+
+   <!-- about sylhet start -->
+
+   <section class="reviews">
+
+      <h1 class="heading-title"> Sylhet </h1>
+
+      <p></p>
+
+      
+
+   </section>
+
+
+   <!-- about sylhet end -->
+
    <section class="home-about">
 
       <div class="image">
