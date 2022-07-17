@@ -127,77 +127,224 @@ if (!isset($_SESSION['username'])) {
    </section>
 
 
-      <!-- maps start -->
-      <section class="reviews">
+   <!-- maps start -->
+   <section class="reviews">
 
-<h1 class="heading-title"> Top Destinations </h1>
+      <h1 class="heading-title"> Top Destinations </h1>
 
-<div class="swiper reviews-slider">
+      <div class="swiper reviews-slider">
 
-   <div class="swiper-wrapper">
+         <div class="swiper-wrapper">
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.0238896548626!2d91.7499734148447!3d25.168671183909467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750f12442357305%3A0x733fa65750530a4f!2sSada%20Pathor%20Volagonj!5e0!3m2!1sen!2sbd!4v1657866870300!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>Sada Pathor</h3>
-         <span>Adventure</span>
-         <!-- <img src="images/pic-1.png" alt=""> -->
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.0238896548626!2d91.7499734148447!3d25.168671183909467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750f12442357305%3A0x733fa65750530a4f!2sSada%20Pathor%20Volagonj!5e0!3m2!1sen!2sbd!4v1657866870300!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Sada Pathor</h3>
+               <span>Adventure</span>
+               <!-- <img src="images/pic-1.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28889.977405816036!2d91.99015607308571!3d25.161130470412818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375044bd7d747f47%3A0xef2b6cb5bcade375!2sJaflong!5e0!3m2!1sen!2sbd!4v1657867058280!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Jaflong</h3>
+               <span>Adventure & Nature</span>
+               <!-- <img src="images/pic-2.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8963.733504007696!2d91.7936253046067!3d24.341128532272464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375179d765c0cacf%3A0x7b17e70cae88f95d!2sLawachara%20National%20Park!5e0!3m2!1sen!2sbd!4v1657867264171!5m2!1sen!2sbd" width="350" height="352" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Lawachara National Park</h3>
+               <span>Adventure and Nature</span>
+               <!-- <img src="images/pic-3.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.618795879541!2d91.89004120351603!3d24.967011079781376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375055f3d49883e7%3A0xb7202af823b1d73!2sTreeTop%20Adventure%20Farm!5e0!3m2!1sen!2sbd!4v1657867490442!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>TreeTop Adventure Farm</h3>
+               <span>Adventure</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.429859761405!2d91.90418031483941!3d24.91742208402703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750549f7b9a00bf%3A0xcee115f7fab88dc2!2sTilagar%20Eco%20Park!5e0!3m2!1sen!2sbd!4v1657868267137!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Tilagar Eco Park</h3>
+               <span>Zoo</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3617.430139562929!2d91.87019781459814!3d24.951475984011108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375054529eacbd95%3A0x82929d80057ffa31!2sAdventure%20World%20fun%20%26%20family%20tourism%20park!5e0!3m2!1sen!2sbd!4v1657874669704!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Adventure World Fun & Family Tourism Park</h3>
+               <span>Amusement Park</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.5857751523454!2d91.91651441484147!3d25.014187483981647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375051377216199b%3A0x1e9a24c0202a6d39!2sRatargul%20Swamp%20Forest!5e0!3m2!1sen!2sbd!4v1657868720320!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Ratargul Swamp Forest</h3>
+               <span>Nature</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.809001934436!2d92.07266127628132!3d25.175926278341674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750552555555555%3A0x63110c3e6e0471be!2sSripur%20Picnic%20Corner!5e0!3m2!1sen!2sbd!4v1657869018515!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+               <h3>Sripur Picnic Corner</h3>
+               <span>Picnic & Nature</span>
+               <!-- <img src="images/pic-4.png" alt=""> -->
+            </div>
+
+         </div>
+
       </div>
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28889.977405816036!2d91.99015607308571!3d25.161130470412818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375044bd7d747f47%3A0xef2b6cb5bcade375!2sJaflong!5e0!3m2!1sen!2sbd!4v1657867058280!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>Jaflong</h3>
-         <span>Adventure & Nature</span>
-         <!-- <img src="images/pic-2.png" alt=""> -->
+   </section>
+   <!-- maps end -->
+
+   <!-- about sylhet start -->
+   <section class="about">
+      <!-- section 1 -->
+
+      <div class="image">
+         <img src="images/aboutSylhet.jpg" alt="Sylhet Image">
       </div>
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8963.733504007696!2d91.7936253046067!3d24.341128532272464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375179d765c0cacf%3A0x7b17e70cae88f95d!2sLawachara%20National%20Park!5e0!3m2!1sen!2sbd!4v1657867264171!5m2!1sen!2sbd" width="350" height="352" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>Lawachara National Park</h3>
-         <span>Adventure and Nature</span>
-         <!-- <img src="images/pic-3.png" alt=""> -->
+      <div class="content">
+         <h3>About Our Sylhet</h3>
+         <p>Sylhet (Bengali: সিলেট) is a metropolitan city in northeastern Bangladesh. It is the administrative seat of the Sylhet Division.
+            Located on the north bank of the Surma River at the eastern tip of Bengal, Sylhet has a subtropical climate and lush highland
+            terrain. The city has a population of more than half a million and is one of the largest cities in Bangladesh after Dhaka,
+            Chittagong and Khulna. Sylhet is one of Bangladesh's most important spiritual and cultural centres. Furthermore, it is one of
+            the most economically important cities after Dhaka and Chittagong. The city produces the highest amount of tea and natural gas.</p>
+         <p>The hinterland of the Sylhet valley is the largest oil and gas-producing region in Bangladesh. It is also the largest hub
+            of tea production in Bangladesh. It is notable for its high-quality cane and agarwood. The city is served by the Osmani
+            International Airport, named after General Bangabir M A G Osmani, the Commander-in-Chief of the Mukti Bahini during the
+            Bangladesh Liberation War. People from Sylhet form a significant portion of the Bangladeshi diaspora, particularly in the
+            United Kingdom and the United States and other countries in the Middle East.
+            [Source: <a href="https://en.wikipedia.org/wiki/Sylhet">Wikipedia</a>]</p>
+      </div>
+   </section>
+   <section class="about">
+      <!-- section 2 -->
+      <div class="content">
+         <h3>History of Sylhet</h3>
+         <p>In 1303, the Sultan of Lakhnauti Shamsuddin Firoz Shah conquered Sylhet by defeating Gour Govinda.
+            Sylhet was a realm of the Bengal Sultanate. In the 16th-century, Sylhet was controlled by the Baro-Bhuyan zamindars and
+            later became a sarkar (district) of the Mughal Empire. Sylhet emerged as the Mughals' most significant imperial outpost in the
+            east, and its importance remained as such throughout the seventeenth century. British rule began in the 18th century under the
+            administration of the East India Company. Sylhet became a key source of lascars in the British Empire with its ancient
+            seafaring tradition. The Sylhet municipal board was established in 1867. Originally part of the Bengal Presidency and
+            later Eastern Bengal and Assam; the town was part of Colonial Assam between 1874 and 1947 when following a referendum and
+            the partition of British India, it became part of East Bengal. The Sylhet City Corporation was constituted in 2001. The
+            Government of Bangladesh designated Sylhet a metropolitan area in 2009. <br>
+            [<b>Image info:</b> Reino Sirote or Sylhet/Srihatta Kingdom mentioned in the historical Portuguese map of 16th century,
+            created by João de Barros. The word Sirote resembles local name in Sylheti: ꠍꠤꠟꠐ (Silot)]<br>
+            [Source: <a href="https://en.wikipedia.org/wiki/Sylhet#History">Wikipedia</a>]</p>
       </div>
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.618795879541!2d91.89004120351603!3d24.967011079781376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375055f3d49883e7%3A0xb7202af823b1d73!2sTreeTop%20Adventure%20Farm!5e0!3m2!1sen!2sbd!4v1657867490442!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>TreeTop Adventure Farm</h3>
-         <span>Adventure</span>
-         <!-- <img src="images/pic-4.png" alt=""> -->
+      <div class="image">
+         <img src="images/Portuguese_map_of_CHT.jpg" alt="Sylhet Image">
       </div>
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.429859761405!2d91.90418031483941!3d24.91742208402703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750549f7b9a00bf%3A0xcee115f7fab88dc2!2sTilagar%20Eco%20Park!5e0!3m2!1sen!2sbd!4v1657868267137!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>Tilagar Eco Park</h3>
-         <span>Zoo</span>
-         <!-- <img src="images/pic-4.png" alt=""> -->
+   </section>
+   <section class="about">
+      <!-- section 3 -->
+
+      <div class="image">
+         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463252.4192036706!2d91.78562190167463!3d24.892539652046526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3751b4a3d19b010d%3A0x30cd24eb1e7aad4c!2sSylhet%20District%2C%20Bangladesh!5e0!3m2!1sen!2sin!4v1658072531699!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
       </div>
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3617.430139562929!2d91.87019781459814!3d24.951475984011108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375054529eacbd95%3A0x82929d80057ffa31!2sAdventure%20World%20fun%20%26%20family%20tourism%20park!5e0!3m2!1sen!2sbd!4v1657874669704!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>Adventure World Fun & Family Tourism Park</h3>
-         <span>Amusement Park</span>
-         <!-- <img src="images/pic-4.png" alt=""> -->
+      <div class="content">
+         <h3>Geography and Climate</h3>
+         <p>Sylhet is located at 24.8917°N 91.8833°E, in the northeastern region of Bangladesh within the Sylhet Division,
+            the Sylhet District and Sylhet Sadar Upazila. Sylhet has a typical Bangladeshi tropical monsoon climate (Köppen Am) bordering on a
+            humid subtropical climate (Cwa) at higher elevations. The rainy season starts from April to October and it is so hot and humid with
+            very heavy showers and thunderstorms almost every day, whilst the short dry season starts from November to February and it is very
+            warm and fairly clear. Nearly 80% of the annual average rainfall of 4,200 millimetres (170 in) occurs between May and September.
+            The city is located within the region where there are hills and basins which constitute one of the most distinctive regions in
+            Bangladesh. The physiography of Sylhet consists mainly of hill soils, encompassing a few large depressions known locally as "beels"
+            which can be mainly classified as oxbow lakes, caused by tectonic subsidence primarily during the earthquake of 1762.
+            Geologically, the region is complex having diverse sacrificial geomorphology; high topography of Plio-Miocene age. Available
+            limestone deposits in different parts of the region suggest that the whole area was under the ocean in the Oligo-Miocene.
+            In the last 150 years three major earthquakes hit the city, at a magnitude of at least 7.5 on the Richter Scale,
+            the last one took place in 1918, although many people are unaware that Sylhet lies on an earthquake prone zone.
+            [Source: <a href="https://en.wikipedia.org/wiki/Sylhet#Geography_and_climate">Wikipedia</a>]
+         </p>
+      </div>
+   </section>
+
+   <section class="services">
+
+      <h1 class="heading-title"> <iframe width="860" height="515" src="https://www.youtube.com/embed/FKjmo8itr84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </h1>
+   </section>
+   <!-- about sylhet end -->
+
+
+   <!-- vlog start -->
+   <section class="reviews">
+
+      <h1 class="heading-title"> Travel Vlogs </h1>
+
+      <div class="swiper reviews-slider">
+
+         <div class="swiper-wrapper">
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/dfxQtdCzyzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3 style="align-items: center;">Sada Pathor</h3>
+               <!-- <span>Adventure</span> -->
+               <!-- <img src="images/pic-1.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/JGB7MIkjrEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3>Jaflong</h3>
+               <!-- <span>Adventure & Nature</span> -->
+               <!-- <img src="images/pic-2.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/DqsUn2CuGiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3>Lawachara National Park</h3>
+               <!-- <span>Adventure and Nature</span> -->
+               <!-- <img src="images/pic-3.png" alt=""> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/qBcnhG6ujoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3>TreeTop Adventure Farm</h3>
+               <!-- <span>Adventure</span> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/yRgM2wXz39c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3>Tilagar Eco Park</h3>
+               <!-- <span>Zoo</span> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/iN_tnnEiVaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3>Adventure World Fun & Family Tourism Park</h3>
+               <!-- <span>Amusement Park</span> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/E8R7aiTXT8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3>Ratargul Swamp Forest</h3>
+               <!-- <span>Nature</span> -->
+            </div>
+
+            <div class="swiper-slide slide">
+               <p><iframe width="350" height="350" src="https://www.youtube.com/embed/bmGJlU159Ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+               <h3>Sripur Picnic Corner</h3>
+               <!-- <span>Picnic & Nature</span> -->
+            </div>
+
+         </div>
+
       </div>
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.5857751523454!2d91.91651441484147!3d25.014187483981647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375051377216199b%3A0x1e9a24c0202a6d39!2sRatargul%20Swamp%20Forest!5e0!3m2!1sen!2sbd!4v1657868720320!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>Ratargul Swamp Forest</h3>
-         <span>Nature</span>
-         <!-- <img src="images/pic-4.png" alt=""> -->
-      </div>
+   </section>
+   <!-- vlog end -->
 
-      <div class="swiper-slide slide">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.809001934436!2d92.07266127628132!3d25.175926278341674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750552555555555%3A0x63110c3e6e0471be!2sSripur%20Picnic%20Corner!5e0!3m2!1sen!2sbd!4v1657869018515!5m2!1sen!2sbd" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-         <h3>Sripur Picnic Corner</h3>
-         <span>Picnic & Nature</span>
-         <!-- <img src="images/pic-4.png" alt=""> -->
-      </div>
-
-   </div>
-
-</div>
-
-</section>
-<!-- maps end -->
 
    <section class="home-about">
 
