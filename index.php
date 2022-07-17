@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 include 'config.php';
 
@@ -7,7 +7,7 @@ session_start();
 error_reporting(0);
 
 if (isset($_SESSION['username'])) {
-    header("Location: home_1.php");
+	header("Location: home_1.php");
 }
 
 if (isset($_POST['submit'])) {
@@ -29,6 +29,7 @@ if (isset($_POST['submit'])) {
 
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,7 +40,9 @@ if (isset($_POST['submit'])) {
 
 	<title>Login Form - TripIt</title>
 </head>
+
 <body>
+
 	<div class="container">
 		<form action="" method="POST" class="login-email">
 			<p class="login-text" style="font-size: 2rem; font-weight: 900; color: black;">Login to TripIt</p>
@@ -56,5 +59,12 @@ if (isset($_POST['submit'])) {
 			<p class="login-register-text">Want to go back to home? <a href="home.php">Home</a>.</p>
 		</form>
 	</div>
+
+
+
+
+
+
 </body>
+
 </html>

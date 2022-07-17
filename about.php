@@ -19,7 +19,7 @@
 <body>
    <section class="header">
 
-   <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="90" alt="TripIt"></a>
+      <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="90" alt="TripIt"></a>
 
       <nav class="navbar">
          <a href="home.php">home</a>
@@ -133,6 +133,11 @@
    </section>
 
 
+   <section class="packages">
+      <h1 class="heading-title"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckzPbHPA9xEpX0cW3cWM83XEKGR63kCnZexxErCax7eEXXLg/viewform?embedded=true" width="1040" height="677" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></h1>
+
+   </section>
+
 
 
 
@@ -162,8 +167,8 @@
 
          <div class="box">
             <h3>extra links</h3>
-            <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-            <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+            <a href="https://forms.gle/6GZXWHze8dyerDQg7"> <i class="fas fa-angle-right"></i> ask questions</a>
+            <a href="abbout.php"> <i class="fas fa-angle-right"></i> about us</a>
             <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
             <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
          </div>

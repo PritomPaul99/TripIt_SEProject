@@ -23,8 +23,8 @@ if (!isset($_SESSION['username'])) {
 </head>
 
 <body>
-   <?php echo "<h1 style='color: blueviolet; text-align-last: center;'> Welcome " . $_SESSION['username'] . "!</h1>"; ?>
-   <!-- <h1 style="color: blueviolet; text-align-last: center;"></h1> -->
+   <?php echo "<h1 style='color: black; text-align-last: center;'> Welcome " . $_SESSION['username'] . "!</h1>"; ?>
+   <!-- <h1 style="color: black; text-align-last: center; text-transform: ;">PPPP</h1> -->
    <!-- added  -->
    <section class="header">
 
@@ -204,7 +204,13 @@ if (!isset($_SESSION['username'])) {
       <!-- section 1 -->
 
       <div class="image">
-         <img src="images/aboutSylhet.jpg" alt="Sylhet Image">
+         <div class="box-container">
+            <img src="images/aboutSylhet.jpg" alt="Sylhet Image">
+            <p style="text-align: center;">The Ali Amjad Clock (Bengali: আলী আমজদের ঘড়ি) is the
+               oldest clock tower of Bangladesh located on the bank of Surma River in Sylhet City. It is locally known as
+               "Ghori Ghar" and a popular tourist attraction adjacent to the Keane Bridge.
+            </p>
+         </div>
       </div>
 
       <div class="content">
@@ -235,13 +241,15 @@ if (!isset($_SESSION['username'])) {
             later Eastern Bengal and Assam; the town was part of Colonial Assam between 1874 and 1947 when following a referendum and
             the partition of British India, it became part of East Bengal. The Sylhet City Corporation was constituted in 2001. The
             Government of Bangladesh designated Sylhet a metropolitan area in 2009. <br>
-            [<b>Image info:</b> Reino Sirote or Sylhet/Srihatta Kingdom mentioned in the historical Portuguese map of 16th century,
-            created by João de Barros. The word Sirote resembles local name in Sylheti: ꠍꠤꠟꠐ (Silot)]<br>
             [Source: <a href="https://en.wikipedia.org/wiki/Sylhet#History">Wikipedia</a>]</p>
       </div>
 
       <div class="image">
-         <img src="images/Portuguese_map_of_CHT.jpg" alt="Sylhet Image">
+         <div class="box-container">
+            <img src="images/Portuguese_map_of_CHT.jpg" alt="Sylhet Image">
+            <p style="text-align: center;">Reino Sirote or Sylhet/Srihatta Kingdom mentioned in the historical Portuguese map of 16th century,
+               created by João de Barros. The word Sirote resembles local name in Sylheti: ꠍꠤꠟꠐ (Silot)</p>
+         </div>
       </div>
 
    </section>
@@ -249,7 +257,10 @@ if (!isset($_SESSION['username'])) {
       <!-- section 3 -->
 
       <div class="image">
-         <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463252.4192036706!2d91.78562190167463!3d24.892539652046526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3751b4a3d19b010d%3A0x30cd24eb1e7aad4c!2sSylhet%20District%2C%20Bangladesh!5e0!3m2!1sen!2sin!4v1658072531699!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+         <div class="box-container">
+            <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463252.4192036706!2d91.78562190167463!3d24.892539652046526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3751b4a3d19b010d%3A0x30cd24eb1e7aad4c!2sSylhet%20District%2C%20Bangladesh!5e0!3m2!1sen!2sin!4v1658072531699!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+            <p style="text-align: center;">The map of Sylhet</p>
+         </div>
       </div>
 
       <div class="content">
@@ -436,8 +447,8 @@ if (!isset($_SESSION['username'])) {
 
          <div class="box">
             <h3>extra links</h3>
-            <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-            <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+            <a href="https://forms.gle/6GZXWHze8dyerDQg7"> <i class="fas fa-angle-right"></i> ask questions</a>
+            <a href="about_1.php"> <i class="fas fa-angle-right"></i> about us</a>
             <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
             <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
          </div>

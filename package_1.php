@@ -199,8 +199,8 @@
 
          <div class="box">
             <h3>extra links</h3>
-            <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-            <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+            <a href="https://forms.gle/6GZXWHze8dyerDQg7"> <i class="fas fa-angle-right"></i> ask questions</a>
+            <a href="about_1.php"> <i class="fas fa-angle-right"></i> about us</a>
             <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
             <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
          </div>
