@@ -17,13 +17,14 @@
    
 <section class="header">
 
-<a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="70" alt="TripIt"></a>
+<a href="home.php" class="logo"><img src="images/tittle.png" width="170" height="70" alt="TripIt"></a>
 
    <nav class="navbar">
       <a href="home_1.php">home</a>
       <a href="about_1.php">about</a>
       <a href="package_1.php">package</a>
       <a href="hotels_1.php"> hotels</a>
+      <a href="guide_1.php"> Guides</a>
       <a href="book.php">book</a>
       <a href="logout.php">Logout</a>
    </nav>
@@ -103,24 +104,25 @@
             <h3>extra links</h3>
             <a href="https://forms.gle/6GZXWHze8dyerDQg7"> <i class="fas fa-angle-right"></i> ask questions</a>
             <a href="about_1.php"> <i class="fas fa-angle-right"></i> about us</a>
-            <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-            <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+            <a href="opps_1.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
+            <a href="opps_1.php"> <i class="fas fa-angle-right"></i> terms of use</a>
          </div>
 
          <div class="box">
             <h3>contact info</h3>
             <a href="tel:+8801718382009"> <i class="fas fa-phone"></i> +8801718382009 </a>
             <a href="tel:+8801733735071"> <i class="fas fa-phone"></i> +8801733735071 </a>
-            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> pritompaul19@gmail.com</a>
+            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> <p style="text-transform:lowercase ; display: inline;">pritompaul1920@gmail.com</p></a>
+            <!-- <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> pritompaul19@gmail.com</a> -->
             <a href="https://goo.gl/maps/C9t9o5vAL7unMEpa9"> <i class="fas fa-map"></i> Sylhet, Bangladesh </a>>
          </div>
 
          <div class="box">
             <h3>follow us</h3>
             <a href="https://www.facebook.com/pritompaul.pappu"> <i class="fab fa-facebook-f"></i> facebook </a>
-            <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-            <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-            <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+            <a href="opps_1.php"> <i class="fab fa-twitter"></i> twitter </a>
+            <a href="opps_1.php"> <i class="fab fa-instagram"></i> instagram </a>
+            <a href="opps_1.php> <i class="fab fa-linkedin"></i> linkedin </a>
          </div>
 
       </div>

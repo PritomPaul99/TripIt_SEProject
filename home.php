@@ -16,13 +16,14 @@
 <body>
    <section class="header">
 
-      <a href="home.php" class="logo"><img src="images/tittle.png" width="150" height="90" alt="TripIt"></a>
+      <a href="home.php" class="logo"><img src="images/tittle.png" width="170" height="90" alt="TripIt"></a>
 
       <nav class="navbar">
          <a href="home.php">Home</a>
          <a href="about.php">About</a>
          <a href="package.php">Package</a>
          <a href="hotels.php"> hotels</a>
+         <a href="guide.php"> Guides</a>
          <a href="index.php">Log in</a>
       </nav>
 
@@ -444,16 +445,17 @@
             <h3>contact info</h3>
             <a href="tel:+8801718382009"> <i class="fas fa-phone"></i> +8801718382009 </a>
             <a href="tel:+8801733735071"> <i class="fas fa-phone"></i> +8801733735071 </a>
-            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> pritompaul19@gmail.com</a>
+            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> <p style="text-transform:lowercase ; display: inline;">pritompaul1920@gmail.com</p></a>
+            <!-- <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> pritompaul19@gmail.com</a> -->
             <a href="https://goo.gl/maps/C9t9o5vAL7unMEpa9"> <i class="fas fa-map"></i> Sylhet, Bangladesh </a>>
          </div>
 
          <div class="box">
             <h3>follow us</h3>
             <a href="https://www.facebook.com/pritompaul.pappu"> <i class="fab fa-facebook-f"></i> facebook </a>
-            <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-            <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-            <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+            <a href="opps.php"> <i class="fab fa-twitter"></i> twitter </a>
+            <a href="opps.php"> <i class="fab fa-instagram"></i> instagram </a>
+            <a href="opps.php"> <i class="fab fa-linkedin"></i> linkedin </a>
          </div>
 
       </div>
