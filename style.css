@@ -110,7 +110,7 @@ body {
 }
 
 .container .login-email .input-group input:focus, .container .login-email .input-group input:valid {
-    border-color: hsl(146, 98%, 80%);
+    border-color: hsl(124, 96%, 37%);
 }
 
 .container .login-email .input-group .btn {
@@ -119,7 +119,7 @@ body {
     padding: 15px 20px;
     text-align: center;
     border: none;
-    background: #9bfeab;
+    background: hsl(124, 96%, 37%);
     outline: none;
     border-radius: 30px;
     font-size: 1.2rem;
