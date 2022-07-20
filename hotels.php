@@ -24,7 +24,7 @@
          <a href="about.php">about</a>
          <a href="package.php">package</a>
          <a href="hotels.php"> hotels</a>
-         <a href="guide.php"> Guides</a>
+         <!-- <a href="guide.php"> Guides</a> -->
          <!-- <a href="book.php">book</a> -->
          <a href="index.php">Log in</a>
 

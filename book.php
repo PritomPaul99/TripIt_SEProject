@@ -122,7 +122,7 @@
             <a href="https://www.facebook.com/pritompaul.pappu"> <i class="fab fa-facebook-f"></i> facebook </a>
             <a href="opps_1.php"> <i class="fab fa-twitter"></i> twitter </a>
             <a href="opps_1.php"> <i class="fab fa-instagram"></i> instagram </a>
-            <a href="opps_1.php> <i class="fab fa-linkedin"></i> linkedin </a>
+            <a href="opps_1.php"> <i class="fab fa-linkedin"></i> linkedin </a>
          </div>
 
       </div>

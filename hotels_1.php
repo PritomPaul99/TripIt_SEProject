@@ -18,10 +18,10 @@
 <a href="home.php" class="logo"><img src="images/tittle.png" width="170" height="90" alt="TripIt"></a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="hotels.php"> hotels</a>
+      <a href="home_1.php">home</a>
+      <a href="about_1.php">about</a>
+      <a href="package_1.php">package</a>
+      <a href="hotels_1.php"> hotels</a>
       <a href="guide_1.php"> Guides</a>
       <a href="book.php">book</a>
       <a href="logout.php">Log out</a>

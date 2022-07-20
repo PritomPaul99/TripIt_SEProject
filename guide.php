@@ -23,7 +23,7 @@
             <a href="about.php">about</a>
             <a href="package.php">package</a>
             <a href="hotels.php"> hotels</a>
-            <a href="guide.php"> Guides</a>
+            <!-- <a href="guide.php"> Guides</a> -->
             <a href="index.php">Log in</a>
         </nav>
 
@@ -97,7 +97,7 @@
     <!-- guide apply -->
     <section class="services">
         <h1 class="heading-title">Want to apply as a travel guide? Please apply below...</h1>
-        <h1 class="heading-title"> <a href="https://forms.gle/kHztTCa9v6ckj2WQ7" class="btn">Apply</a></h1>
+        <h1 class="heading-title"> <a href="https://forms.gle/kHztTCa9v6ckj2WQ7" class="btn">Apply Now</a></h1>
         <!-- <h1  class="heading-title">Or</h1> -->
         <!-- <h1 class="heading-title"> <a href="register.php" class="btn">Register!</a> </h1> -->
     </section>
