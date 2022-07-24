@@ -107,25 +107,33 @@ if (!isset($_SESSION['username'])) {
             </div>
          </a>
 
-         <div class="box" style="background-color: green;">
-            <img src="images/icon-3.png" alt="">
-            <h3>Tracking</h3>
-         </div>
+         <a href="package_1.php">
+            <div class="box" style="background-color: green;">
+               <img src="images/icon-3.png" alt="">
+               <h3>Tracking</h3>
+            </div>
+         </a>
 
-         <div class="box" style="background-color: darkseagreen;">
-            <img src="images/icon-4.png" alt="">
-            <h3>Camp Fire</h3>
-         </div>
+         <a href="package_1.php">
+            <div class="box" style="background-color: darkseagreen;">
+               <img src="images/icon-4.png" alt="">
+               <h3>Camp Fire</h3>
+            </div>
+         </a>
 
-         <div class="box" style="background-color: indianred;">
-            <img src="images/icon-5.png" alt="">
-            <h3>Off Road</h3>
-         </div>
+         <a href="package_1.php">
+            <div class="box" style="background-color: indianred;">
+               <img src="images/icon-5.png" alt="">
+               <h3>Off Road</h3>
+            </div>
+         </a>
 
-         <div class="box" style="background-color: dimgray;">
-            <img src="images/icon-6.png" alt="">
-            <h3>Camping</h3>
-         </div>
+         <a href="package_1.php">
+            <div class="box" style="background-color: dimgray;">
+               <img src="images/icon-6.png" alt="">
+               <h3>Camping</h3>
+            </div>
+         </a>
 
       </div>
 
