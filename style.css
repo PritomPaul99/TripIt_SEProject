@@ -34,7 +34,7 @@ body {
     text-align: center;
     margin-bottom: 20px;
     display: block;
-    text-transform: capitalize;
+    text-transform: capitalize;  
 }
 
 .container .login-social {

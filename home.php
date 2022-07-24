@@ -370,7 +370,7 @@
             <div class="content">
                <h3>Adventure & tour</h3>
                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="errormsg.php" class="btn">book now</a>
             </div>
          </div>
 
@@ -381,7 +381,7 @@
             <div class="content">
                <h3>Adventure & tour</h3>
                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="errormsg.php" class="btn">book now</a>
             </div>
          </div>
 
@@ -392,7 +392,7 @@
             <div class="content">
                <h3>Adventure & tour</h3>
                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="errormsg.php" class="btn">book now</a>
             </div>
          </div>
 
@@ -410,7 +410,7 @@
       <div class="content">
          <h3>Upto 50% off for you lucky traveler!</h3>
          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure tempora assumenda, debitis aliquid nesciunt maiores quas! Magni cumque quaerat saepe!</p>
-         <a href="book.php" class="btn">Book Now</a>
+         <a href="errormsg.php" class="btn">Book Now</a>
       </div>
    </section>
 
@@ -445,7 +445,9 @@
             <h3>contact info</h3>
             <a href="tel:+8801718382009"> <i class="fas fa-phone"></i> +8801718382009 </a>
             <a href="tel:+8801733735071"> <i class="fas fa-phone"></i> +8801733735071 </a>
-            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> <p style="text-transform:lowercase ; display: inline;">pritompaul1920@gmail.com</p></a>
+            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i>
+               <p style="text-transform:lowercase ; display: inline;">pritompaul1920@gmail.com</p>
+            </a>
             <!-- <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> pritompaul19@gmail.com</a> -->
             <a href="https://goo.gl/maps/C9t9o5vAL7unMEpa9"> <i class="fas fa-map"></i> Sylhet, Bangladesh </a>>
          </div>
