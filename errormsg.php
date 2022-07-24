@@ -33,7 +33,7 @@
 
     <section class="services">
 
-        <h1  class="heading-title">Please Login or Register to book!</h1>
+        <h1  class="heading-title">Please Login or Register to book or contact a guide!</h1>
         <h1 class="heading-title"> <a href="index.php" class="btn">Login</a>  <a href="register.php" class="btn">Register</a></h1>
         <!-- <h1  class="heading-title">Or</h1> -->
         <!-- <h1 class="heading-title"> <a href="register.php" class="btn">Register!</a> </h1> -->

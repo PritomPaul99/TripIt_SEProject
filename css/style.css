@@ -50,6 +50,11 @@ section{
    }
 }
 
+
+.serv{
+   text-align: center;
+}
+
 .heading{
    background-size: cover !important;
    background-position: center !important;

@@ -93,15 +93,19 @@ if (!isset($_SESSION['username'])) {
       <h1 class="heading-title"> Our Services </h1>
 
       <div class="box-container">
-         <div class="box" style="background-color: darkgreen;">
-            <img src="images/icon-1.png" alt="">
-            <h3>Adventure</h3>
-         </div>
+         <a href="adventure_1.php">
+            <div class="box" style="background-color: darkgreen;">
+               <img src="images/icon-1.png" alt="">
+               <h3>Adventure</h3>
+            </div>
+         </a>
 
-         <div class="box" style="background-color: darkolivegreen;">
-            <img src="images/icon-2.png" alt="">
-            <h3>Tour guide</h3>
-         </div>
+         <a href="tour_guide_1.php">
+            <div class="box" style="background-color: darkolivegreen;">
+               <img src="images/icon-2.png" alt="">
+               <h3>Tour guide</h3>
+            </div>
+         </a>
 
          <div class="box" style="background-color: green;">
             <img src="images/icon-3.png" alt="">
@@ -458,7 +462,9 @@ if (!isset($_SESSION['username'])) {
             <h3>contact info</h3>
             <a href="tel:+8801718382009"> <i class="fas fa-phone"></i> +8801718382009 </a>
             <a href="tel:+8801733735071"> <i class="fas fa-phone"></i> +8801733735071 </a>
-            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i> <p style="text-transform:lowercase ; display: inline;">pritompaul1920@gmail.com</p></a>
+            <a href="mailto:pritompaul1920@gmail.com?subject = Feedback&body = Message"> <i class="fas fa-envelope"></i>
+               <p style="text-transform:lowercase ; display: inline;">pritompaul1920@gmail.com</p>
+            </a>
             <a href="https://goo.gl/maps/C9t9o5vAL7unMEpa9"> <i class="fas fa-map"></i> Sylhet, Bangladesh </a>>
          </div>
 

@@ -75,15 +75,19 @@
       <h1 class="heading-title"> Our Services </h1>
 
       <div class="box-container">
-         <div class="box" style="background-color: darkgreen;">
-            <img src="images/icon-1.png" alt="">
-            <h3>Adventure</h3>
-         </div>
+         <a href="adventure.php">
+            <div class="box" style="background-color: darkgreen;">
+               <img src="images/icon-1.png" alt="">
+               <h3>Adventure</h3>
+            </div>
+         </a>
 
-         <div class="box" style="background-color: darkolivegreen;">
-            <img src="images/icon-2.png" alt="">
-            <h3>Tour guide</h3>
-         </div>
+         <a href="tour_guide.php">
+            <div class="box" style="background-color: darkolivegreen;">
+               <img src="images/icon-2.png" alt="">
+               <h3>Tour guide</h3>
+            </div>
+         </a>
 
          <div class="box" style="background-color: green;">
             <img src="images/icon-3.png" alt="">
@@ -437,8 +441,8 @@
             <h3>extra links</h3>
             <a href="https://forms.gle/6GZXWHze8dyerDQg7"> <i class="fas fa-angle-right"></i> ask questions</a>
             <a href="about.php"> <i class="fas fa-angle-right"></i> about us</a>
-            <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-            <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+            <a href="opps.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
+            <a href="opps.php"> <i class="fas fa-angle-right"></i> terms of use</a>
          </div>
 
          <div class="box">
